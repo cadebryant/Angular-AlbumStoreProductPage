@@ -1,0 +1,9 @@
+p {
+    font-size: 16p;
+    font-family: Helvetica;
+    fallback: Arial, san-serif;
+    font-weight: normal;
+}
+img {
+    width: 100%;
+}
